@@ -1,2 +1,4 @@
-# KIV-BIT
-Implementaci symetrického šifrovacího algoritmu AES
+# Seminární práce z KIV-BIT
+## Implementace symetrického šifrovacího algoritmu AES
+
+
